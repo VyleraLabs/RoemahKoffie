@@ -50,7 +50,7 @@ export default function Home() {
           </div>
 
           <div>
-            <h4 className="font-mono text-[10px] uppercase tracking-[0.3em] text-rk-primary mb-8">Navigation</h4>
+            <h3 className="font-mono text-[10px] uppercase tracking-[0.3em] text-rk-primary mb-8">Navigation</h3>
             <ul className="space-y-4 font-sans text-xs uppercase tracking-widest opacity-60">
               <li><Link href="/#heritage" className="hover:text-rk-primary transition-colors">Our Story</Link></li>
               <li><Link href="/#catalogue" className="hover:text-rk-primary transition-colors">Catalogue</Link></li>
@@ -60,7 +60,7 @@ export default function Home() {
           </div>
 
           <div>
-            <h4 className="font-mono text-[10px] uppercase tracking-[0.3em] text-rk-primary mb-8">Connect</h4>
+            <h3 className="font-mono text-[10px] uppercase tracking-[0.3em] text-rk-primary mb-8">Connect</h3>
             <ul className="space-y-4 font-sans text-xs uppercase tracking-widest opacity-60">
               <li><a href="#" className="hover:text-rk-primary transition-colors">Instagram</a></li>
               <li><a href="#" className="hover:text-rk-primary transition-colors">Twitter (X)</a></li>
