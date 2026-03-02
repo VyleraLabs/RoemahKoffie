@@ -28,9 +28,9 @@ const FloatingDecorators = () => {
         { src: "/roemah_koffie_assets/kupu-kecil-kanan-hitam.CUEGKd7x.svg", top: "800vh", right: "25%", speedX: -0.15, speedY: -0.4, scale: 0.3 },
 
         // Animals
-        { src: "/roemah_koffie_assets/kuda_pelana.png", top: "280vh", left: "-5%", speedX: 0.3, speedY: 0, scale: 0.5 },
-        { src: "/roemah_koffie_assets/ikan.png", top: "450vh", right: "-10%", speedX: -0.4, speedY: -0.1, scale: 0.4 },
-        { src: "/roemah_koffie_assets/harimau.EoQPHTJG.png", top: "650vh", left: "-5%", speedX: 0.25, speedY: 0, scale: 0.6 },
+        { src: "/roemah_koffie_assets/kuda_pelana.webp", top: "280vh", left: "-5%", speedX: 0.3, speedY: 0, scale: 0.5 },
+        { src: "/roemah_koffie_assets/ikan.webp", top: "450vh", right: "-10%", speedX: -0.4, speedY: -0.1, scale: 0.4 },
+        { src: "/roemah_koffie_assets/harimau.EoQPHTJG.webp", top: "650vh", left: "-5%", speedX: 0.25, speedY: 0, scale: 0.6 },
     ];
 
     return (

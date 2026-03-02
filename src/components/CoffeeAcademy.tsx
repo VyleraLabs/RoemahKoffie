@@ -7,7 +7,7 @@ const CoffeeAcademy = () => {
             {/* Background Image */}
             <div className="absolute inset-0 z-0">
                 <Image
-                    src="/roemah_koffie_assets/landscape_of_coffee_and_barista.png"
+                    src="/roemah_koffie_assets/landscape_of_coffee_and_barista.webp"
                     alt="Roemah Koffie Academy"
                     fill
                     className="object-cover opacity-70 scale-105 hover:scale-100 transition-transform duration-[2000ms]"

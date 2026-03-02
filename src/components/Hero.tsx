@@ -62,7 +62,7 @@ const Hero = () => {
                     {/* Texture Overlay */}
                     <div className="absolute inset-0 opacity-[0.05] mix-blend-overlay">
                         <Image
-                            src="/roemah_koffie_assets/BACKGROUND_MACRAME.png"
+                            src="/roemah_koffie_assets/BACKGROUND_MACRAME.webp"
                             alt="Texture"
                             fill
                             sizes="100vw"
@@ -84,7 +84,7 @@ const Hero = () => {
                     }}
                 >
                     <Image
-                        src="/roemah_koffie_assets/logo_all58099a.png"
+                        src="/roemah_koffie_assets/logo_all58099a.webp"
                         alt="Roemah Koffie Logo"
                         width={600}
                         height={600}
@@ -99,7 +99,7 @@ const Hero = () => {
                         className="absolute top-[10%] left-[-15%] w-[600px] h-[300px]"
                         style={{ transform: `translateX(${-scrollY * (vh / 600)}px)` }}
                     >
-                        <Image src="/roemah_koffie_assets/awan.png" alt="" fill sizes="(max-width: 768px) 300px, 600px" className="object-contain" />
+                        <Image src="/roemah_koffie_assets/awan.webp" alt="" fill sizes="(max-width: 768px) 300px, 600px" className="object-contain" />
                     </div>
 
                     {/* Raised Becak to avoid "Exploring the World" text clash */}
@@ -107,14 +107,14 @@ const Hero = () => {
                         className="absolute top-[10%] right-[10%] w-[220px] h-[180px]"
                         style={{ transform: `translateX(${-scrollY * (vh / 1500)}px)` }}
                     >
-                        <Image src="/roemah_koffie_assets/becak.png" alt="" fill sizes="(max-width: 768px) 150px, 220px" className="object-contain" />
+                        <Image src="/roemah_koffie_assets/becak.webp" alt="" fill sizes="(max-width: 768px) 150px, 220px" className="object-contain" />
                     </div>
 
                     <div
                         className="absolute top-[50%] right-[-10%] w-[400px] h-[200px]"
                         style={{ transform: `translateX(${scrollY * (vh / 700)}px)` }}
                     >
-                        <Image src="/roemah_koffie_assets/awan_kecil.png" alt="" fill sizes="(max-width: 768px) 200px, 400px" className="object-contain" />
+                        <Image src="/roemah_koffie_assets/awan_kecil.webp" alt="" fill sizes="(max-width: 768px) 200px, 400px" className="object-contain" />
                     </div>
                 </div>
 

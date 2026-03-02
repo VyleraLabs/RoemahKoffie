@@ -32,7 +32,7 @@ export default function Heritage() {
                 }}
             >
                 <Image
-                    src="/roemah_koffie_assets/Untitled_design__21_1c4f8c.png"
+                    src="/roemah_koffie_assets/Untitled_design__21_1c4f8c.webp"
                     alt="Heritage Texture"
                     fill
                     sizes="100vw"
@@ -79,7 +79,7 @@ export default function Heritage() {
 
                         <div className="relative aspect-[4/5] w-full overflow-hidden">
                             <Image
-                                src="/roemah_koffie_assets/Copy_of_Roemah_Koffie_day1_Freehand-1302e2513d3b4ca.jpg"
+                                src="/roemah_koffie_assets/Copy_of_Roemah_Koffie_day1_Freehand-1302e2513d3b4ca.webp"
                                 alt="Artisanal coffee preparation"
                                 fill
                                 className="object-cover transition-transform duration-1000 ease-out group-hover:scale-110"

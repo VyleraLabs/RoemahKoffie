@@ -8,37 +8,37 @@ const LOCATIONS = [
     {
         name: "Carstensz Mall",
         address: "Jl. Jend. Sudirman No. 1 GF #01 Cihuni Kec. Pagedangan, Kab. Tangerang, Banten 15332",
-        image: "/roemah_koffie_assets/RK_Carstensz_Mall.jpg",
+        image: "/roemah_koffie_assets/RK_Carstensz_Mall.webp",
         specs: ["Boutique Experience", "Signature Brew Bar"]
     },
     {
         name: "BAIC Tower",
         address: "BAIC Tower, Central Jakarta",
-        image: "/roemah_koffie_assets/RK_BAIC_Tower4-1.png",
+        image: "/roemah_koffie_assets/RK_BAIC_Tower4-1.webp",
         specs: ["Corporate Sanctuary", "Quick Service"]
     },
     {
         name: "Gunawarman",
         address: "Jl. Gunawarman No. 4, Kebayoran Baru, South Jakarta",
-        image: "/roemah_koffie_assets/RK_GUNS4.png",
+        image: "/roemah_koffie_assets/RK_GUNS4.webp",
         specs: ["Heritage Concept", "Artisanal Roastery"]
     },
     {
         name: "PIK 2",
         address: "Pantai Indah Kapuk 2, North Jakarta",
-        image: "/roemah_koffie_assets/RK_PIK2.png",
+        image: "/roemah_koffie_assets/RK_PIK2.webp",
         specs: ["Coastal Retreat", "Outdoor Seating"]
     },
     {
         name: "Puri Indah Mall 2",
         address: "Puri Indah Mall 2, West Jakarta",
-        image: "/roemah_koffie_assets/RK_Puri_2.png",
+        image: "/roemah_koffie_assets/RK_Puri_2.webp",
         specs: ["Premium Retail", "Family Friendly"]
     },
     {
         name: "T.B. Simatupang",
         address: "BMW Motorrad, Jl. T.B. Simatupang, South Jakarta",
-        image: "/roemah_koffie_assets/RK_BMW-web.jpeg",
+        image: "/roemah_koffie_assets/RK_BMW-web.webp",
         specs: ["Technical Duo", "Fast Pace"]
     }
 ];

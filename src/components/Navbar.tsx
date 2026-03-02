@@ -27,7 +27,7 @@ export default function Navbar() {
                 <Link href="/" className={`group flex items-center transition-all duration-300 ${isScrolled ? "gap-4" : "gap-0"}`}>
                     <div className={`transition-all duration-500 overflow-hidden flex items-center ${isScrolled ? "w-14 opacity-100" : "w-0 opacity-0"}`}>
                         <Image
-                            src="/roemah_koffie_assets/logo_all58099a.png"
+                            src="/roemah_koffie_assets/logo_all58099a.webp"
                             alt="Roemah Koffie Logo"
                             width={56}
                             height={56}
